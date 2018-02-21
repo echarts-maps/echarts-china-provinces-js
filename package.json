@@ -1,0 +1,25 @@
+{
+  "name": "echarts-china-provinces-js",
+  "version": "1.0.0",
+  "description": "Packages maps of 23 Chinese provinces, 5 autonomous regions for echarts",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C. W.",
+  "license": "MIT",
+  "dependencies": {
+    "echarts": "3.6.2",
+    "requirejs": "^2.3.4"
+  },
+  "devDependencies": {
+    "echarts-mapmaker": "^1.0.10",
+    "gulp": "^3.9.1",
+    "gulp-minify": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-typescript": "^3.2.1",
+    "pug": "^2.0.0-rc.4",
+    "require-dir": "^0.3.2",
+    "typescript": "^2.4.2"
+  }
+}
