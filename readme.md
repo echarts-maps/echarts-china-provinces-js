@@ -1,4 +1,4 @@
-# Echarts-china-provinces-js
+# echarts-china-provinces-js
 
 It integrates echarts province maps to jupyter notebook as nbextensions and echarts libraries will be served from http://localhost:8888/nbextensions/echarts-china-provinces-js/.
 
