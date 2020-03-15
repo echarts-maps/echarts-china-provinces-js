@@ -10,6 +10,7 @@ const TASKS = [
   "echarts-maps",
   "configuration",
   "preview",
+  "panzihua",
   "main"
 ];
 

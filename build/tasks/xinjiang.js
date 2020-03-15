@@ -3,7 +3,6 @@ var gulp = require('gulp');
 var maker = require("echarts-mapmaker/src/maker");
 var minify = require("gulp-minify");
 
-// use custom tai wan map
 gulp.task("hamishi", function(){
   maker.decompress('node_modules/echarts/map/json/province/xinjiang.json',
                    'd_xinjiang.json');

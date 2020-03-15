@@ -19,6 +19,7 @@ ECHARTS_BUILTIN_MAPS = [
   '!./node_modules/echarts/map/js/province/tianjin.js',
   '!./node_modules/echarts/map/js/province/xinjiang.js',
   '!./node_modules/echarts/map/js/province/taiwan.js',   // not to use default tai wan map
+  '!./node_modules/echarts/map/js/province/sichuan.js',   // not to use default sichuan map
   './node_modules/echarts/map/js/province/*.js',
   './updated-xizang/xizang.js'
 ]
