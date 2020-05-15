@@ -33,6 +33,8 @@ You will then obtain all echarts libraries in echarts folder.
 This bundling code is MIT license
 The echarts maps are included here under BSD-3 license of Baidu Inc.
 
+This projects is NOT associated with official Apache ECharts (incubating) project and is independently maintained by [@chfw](https://github.com/chfw).
+
 #### Exception on the map license
 
 1. Taiwan map, is taken from [natural earth](http://www.naturalearthdata.com/about/terms-of-use/) and hence is
